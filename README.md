@@ -1,2 +1,7 @@
 # hello-world
-The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. At least, that's what they tell me.
+
+Yo!
+
+My name's Shomari. I'm a digital media and computer theory student. Right now, my biggest interests are AI, AR, and game design. I'm not completely new to programming but I'm missing a lot of the fundamentals (and a portfolio to boot) so, here I am.
+
+Pineapple pizza is good and if you don't agree, we can't hang.
